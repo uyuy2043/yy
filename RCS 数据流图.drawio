@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-02T07:14:00.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="gKf-kUHnks52Ln4SGQhR" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T07:16:45.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="fOYKcqjOGwYxvJS9VoGG" version="12.7.9" type="github">
   <diagram id="2P1N9gcaB7Imwlt-QDEj" name="第 1 页">
-    <mxGraphModel dx="1108" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3140" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -488,16 +488,6 @@
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-165" value="Local API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="1055" width="290" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2X3JBGWOSWir_4q3YpKH-167" value="Step 2:Recive Msg/File(XMPP)" style="endArrow=classic;html=1;fontSize=21;strokeWidth=5;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
-          <mxGeometry x="-0.2023" y="23" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1766.25" y="1052.0178571428569" as="sourcePoint" />
-            <mxPoint x="1450" y="1011.7050000000004" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1620" y="1075" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-169" value="Local API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="290" height="20" as="geometry" />
