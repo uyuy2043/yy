@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-02T05:58:07.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="TgBfcZgoOTdLUGbJUYQ0" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T06:00:48.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="vYr2e796ms-vU8hG7nz-" version="12.7.9" type="github">
   <diagram id="2P1N9gcaB7Imwlt-QDEj" name="第 1 页">
     <mxGraphModel dx="1108" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,8 +68,8 @@
             <mxPoint x="320" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2X3JBGWOSWir_4q3YpKH-29" value="Call Request Stream(SIP)" style="endArrow=classic;html=1;fontSize=30;strokeWidth=5;exitX=1.091;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="2X3JBGWOSWir_4q3YpKH-22">
-          <mxGeometry x="0.3408" y="-26" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-29" value="Step 1:Call Request Stream(SIP)" style="endArrow=classic;html=1;fontSize=21;strokeWidth=5;exitX=1.091;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" target="2X3JBGWOSWir_4q3YpKH-22">
+          <mxGeometry x="-0.0928" y="-22" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="224.00250000000008" y="50" as="sourcePoint" />
             <mxPoint x="425.02" y="104" as="targetPoint" />
             <Array as="points">
@@ -103,7 +103,7 @@
             <mxPoint x="882.7025000000001" y="-6.760000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2X3JBGWOSWir_4q3YpKH-44" value="Call Stream(SIP)" style="endArrow=classic;html=1;fontSize=30;strokeWidth=5;exitX=0.048;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;entryX=0.997;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="2X3JBGWOSWir_4q3YpKH-40" target="2X3JBGWOSWir_4q3YpKH-22">
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-44" value="Step 2:Call Stream(SIP)" style="endArrow=classic;html=1;fontSize=21;strokeWidth=5;exitX=0.048;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;entryX=0.997;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="2X3JBGWOSWir_4q3YpKH-40" target="2X3JBGWOSWir_4q3YpKH-22">
           <mxGeometry x="0.0042" y="27" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1213.72" y="62.50509898502649" as="sourcePoint" />
             <mxPoint x="877.7225000000001" y="20.24" as="targetPoint" />
@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-56" value="Scheduling (Call UserA&amp;nbsp; then Call UserB ,A and B talking)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;horizontal=1;align=center;verticalAlign=top;fontSize=33;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="60" y="1480" width="1390" height="490" as="geometry" />
+          <mxGeometry x="60" y="1480" width="1440" height="490" as="geometry" />
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#36393d;fillColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="170" y="1590" width="30" height="60" as="geometry" />
@@ -259,7 +259,7 @@
         <mxCell id="2X3JBGWOSWir_4q3YpKH-101" value="UserA" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;fillColor=#330000;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="100" y="1045.75" width="50" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="2X3JBGWOSWir_4q3YpKH-102" value="Send Msg/File(XMPP)" style="endArrow=classic;html=1;fontSize=25;strokeWidth=5;exitX=1.091;exitY=0.46;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="2X3JBGWOSWir_4q3YpKH-108" parent="1">
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-102" value="step 1:Send Msg/File(XMPP)" style="endArrow=classic;html=1;fontSize=25;strokeWidth=5;exitX=1.091;exitY=0.46;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="2X3JBGWOSWir_4q3YpKH-108" parent="1">
           <mxGeometry x="-0.0119" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="228.98250000000007" y="1073" as="sourcePoint" />
             <mxPoint x="430" y="1010" as="targetPoint" />
@@ -299,7 +299,7 @@
             <mxPoint x="869.9950000000001" y="1020.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2X3JBGWOSWir_4q3YpKH-111" value="Recive Msg/File(XMPP)" style="endArrow=classic;html=1;fontSize=25;strokeWidth=5;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="2X3JBGWOSWir_4q3YpKH-108" parent="1">
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-111" value="Step 2:Recive Msg/File(XMPP)" style="endArrow=classic;html=1;fontSize=25;strokeWidth=5;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="2X3JBGWOSWir_4q3YpKH-108" parent="1">
           <mxGeometry x="-0.2023" y="23" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1186.25" y="1057.0178571428569" as="sourcePoint" />
             <mxPoint x="882.7025000000001" y="1043.24" as="targetPoint" />
@@ -337,14 +337,14 @@
             <mxPoint x="-12" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2X3JBGWOSWir_4q3YpKH-128" value="A and B Talking" style="endArrow=classic;html=1;fontSize=25;strokeWidth=5;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="2X3JBGWOSWir_4q3YpKH-69" target="2X3JBGWOSWir_4q3YpKH-91">
-          <mxGeometry x="-0.0582" y="-22" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1186.25" y="1687.0178571428569" as="sourcePoint" />
-            <mxPoint x="870" y="1807.5225" as="targetPoint" />
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-128" value="Step 4:A and B Talking" style="endArrow=classic;html=1;fontSize=25;strokeWidth=5;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry x="-0.0582" y="38" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1264.8671893813148" y="1689.3424073269866" as="sourcePoint" />
+            <mxPoint x="1272.3179066168018" y="1850.7446151925642" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1340" y="1760" />
+              <mxPoint x="1328" y="1760" />
             </Array>
-            <mxPoint x="29" y="31" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-129" value="Restfull API Stream(WAMP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
