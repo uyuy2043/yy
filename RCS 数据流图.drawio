@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-02T07:26:00.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="Ddwedm82-YLqDlYGW7o_" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T08:32:54.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="vmc5G_aKFSLKIMOKFOQM" version="12.7.9" type="github">
   <diagram id="2P1N9gcaB7Imwlt-QDEj" name="第 1 页">
     <mxGraphModel dx="1346" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="2X3JBGWOSWir_4q3YpKH-16" value="Audio/Video Call(UserA Call UserB,A and B Talking)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;horizontal=1;align=center;verticalAlign=top;fontSize=33;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="-190" width="1270" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="2X3JBGWOSWir_4q3YpKH-2" value="User Login/Logout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;horizontal=1;align=center;verticalAlign=top;fontSize=33;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="940" height="420" as="geometry" />
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-2" value="User Login/Logout(IsPhone/IsIM)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;horizontal=1;align=center;verticalAlign=top;fontSize=33;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="940" height="510" as="geometry" />
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#36393d;fillColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="190" y="420" width="30" height="60" as="geometry" />
@@ -140,7 +140,9 @@
             <mxPoint x="248.98250000000007" y="533" as="sourcePoint" />
             <mxPoint x="570" y="543.7350000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="610" />
+              <mxPoint x="310" y="580" />
+              <mxPoint x="400" y="590" />
+              <mxPoint x="490" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -568,6 +570,29 @@
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=5;fontSize=30;fontColor=#DAE8FC;" edge="1" parent="1" source="2X3JBGWOSWir_4q3YpKH-180" target="2X3JBGWOSWir_4q3YpKH-180">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-213" value="Regiest(SIP)" style="endArrow=classic;html=1;fontSize=21;strokeWidth=5;exitX=0.86;exitY=0.99;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endFill=1;dashed=1;dashPattern=1 1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="2X3JBGWOSWir_4q3YpKH-15" target="2X3JBGWOSWir_4q3YpKH-53">
+          <mxGeometry x="-0.3195" y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258.9825000000001" y="543" as="sourcePoint" />
+            <mxPoint x="579.9999999999998" y="553.7350000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="620" />
+              <mxPoint x="330" y="638" />
+            </Array>
+            <mxPoint x="50" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X3JBGWOSWir_4q3YpKH-214" value="Login(XMPP)" style="endArrow=classic;html=1;fontSize=21;strokeWidth=5;exitX=0.149;exitY=0.431;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endFill=1;dashed=1;dashPattern=1 1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="2X3JBGWOSWir_4q3YpKH-2" target="2X3JBGWOSWir_4q3YpKH-54">
+          <mxGeometry x="-0.3195" y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268.9825000000001" y="553" as="sourcePoint" />
+            <mxPoint x="569.9999999999998" y="647.5225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="410" />
+              <mxPoint x="370" y="390" />
+              <mxPoint x="480" y="400" />
+            </Array>
+            <mxPoint x="50" y="50" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
