@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-02T07:20:43.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="cd7YueMrVNJ7poerrjRH" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T07:26:00.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="Ddwedm82-YLqDlYGW7o_" version="12.7.9" type="github">
   <diagram id="2P1N9gcaB7Imwlt-QDEj" name="第 1 页">
     <mxGraphModel dx="1346" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1213.72" y="53.44872274143289" as="sourcePoint" />
             <mxPoint x="882.7025000000001" y="-6.760000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="20" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2X3JBGWOSWir_4q3YpKH-44" value="Step 2:Call Stream(SIP)" style="endArrow=classic;html=1;fontSize=21;strokeWidth=5;exitX=0.048;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;entryX=0.997;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="2X3JBGWOSWir_4q3YpKH-40" target="2X3JBGWOSWir_4q3YpKH-22">
