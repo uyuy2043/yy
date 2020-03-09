@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-09T06:05:39.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="tnAmOPfxxDYeNqXWCJsu" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-09T06:13:16.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ajGqpFzLbsoLUIu8KyCm" version="12.8.1" type="github">
   <diagram id="ZktGi2svA78UdaO3cs_2" name="第 1 页">
-    <mxGraphModel dx="996" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="169" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="ZOVoq46K42t6tsjMokU2-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontSize=30;align=center;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1000" y="300" width="820" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOVoq46K42t6tsjMokU2-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#36393d;fillColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="667.5" y="310" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOVoq46K42t6tsjMokU2-10" value="Admin/User" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;fillColor=#330000;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="610" y="385.75" width="50" height="48.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOVoq46K42t6tsjMokU2-11" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client;rounded=0;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="660" y="500" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZOVoq46K42t6tsjMokU2-15" value="音视频API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1669" y="309" width="142" height="50" as="geometry" />
@@ -44,7 +35,7 @@
           <mxGeometry x="1389" y="415.94" width="206" height="124.06" as="geometry" />
         </mxCell>
         <mxCell id="ZOVoq46K42t6tsjMokU2-45" value="APP/WEB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="240" width="800" height="48.12" as="geometry" />
+          <mxGeometry x="1000" y="240" width="820" height="48.12" as="geometry" />
         </mxCell>
         <mxCell id="ZOVoq46K42t6tsjMokU2-30" value="SDK API 封装层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=30;align=center;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1012" y="364.6" width="798" height="47.4" as="geometry" />
