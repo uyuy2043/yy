@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-09T05:22:15.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="LohIbCfRKN1C-S4nZ3vb" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-09T05:23:16.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="yeHVMuTDEfLt3Vie4c3U" version="12.8.1" type="github">
   <diagram id="ZktGi2svA78UdaO3cs_2" name="第 1 页">
     <mxGraphModel dx="942" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,10 +52,10 @@
           <mxGeometry x="1151" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZOVoq46K42t6tsjMokU2-31" value="音视频接口层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=30;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="359" width="200" height="50" as="geometry" />
+          <mxGeometry x="1700" y="360" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZOVoq46K42t6tsjMokU2-32" value="IM 接口层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=30;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1524" y="360" width="146" height="49" as="geometry" />
+          <mxGeometry x="1532" y="360" width="146" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZOVoq46K42t6tsjMokU2-41" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1010" y="310" width="530" height="98.4" as="geometry" />
