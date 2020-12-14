@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T03:07:10.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="O67v4WyXME6v_-h2r1Yd" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T03:30:47.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="GsWnid-t6eICQH48rwn_" version="14.0.1" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="1483" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -13,13 +13,16 @@
         <mxCell id="23046e2b9bb16c14-2" value="HASP LIB" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1020" y="370" width="180" height="231" as="geometry" />
         </mxCell>
+        <mxCell id="U88RP4GUEzCZJ0dClJZG-20" value="HTTP/HTTPS" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=5;fontSize=20;labelBackgroundColor=#ffffff;labelBorderColor=#000000;strokeColor=#FFFFFF;" edge="1" parent="1" source="23046e2b9bb16c14-28" target="U88RP4GUEzCZJ0dClJZG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="23046e2b9bb16c14-28" value="WEB" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#F04D22;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=6;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="263.5" y="331" width="163" height="330" as="geometry" />
         </mxCell>
         <mxCell id="24964f25f45c63f1-5" value="WAMP" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.enterprise.gateway;fillColor=#FFFFFF;rounded=0;fontSize=20;fontColor=#FFFFFF;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="744" y="478" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="23046e2b9bb16c14-71" value="caller/called" style="edgeStyle=orthogonalEdgeStyle;html=1;startArrow=open;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=5;fontSize=20;strokeColor=#FFFFFF;rounded=0;" parent="1" source="24964f25f45c63f1-4" target="24964f25f45c63f1-5" edge="1">
+        <mxCell id="23046e2b9bb16c14-71" value="rRPC" style="edgeStyle=orthogonalEdgeStyle;html=1;startArrow=open;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=5;fontSize=20;strokeColor=#FFFFFF;rounded=0;" parent="1" source="24964f25f45c63f1-4" target="24964f25f45c63f1-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="501" />
@@ -42,7 +45,7 @@
         <mxCell id="23046e2b9bb16c14-82" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=11;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1197" y="615" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="23046e2b9bb16c14-113" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="23046e2b9bb16c14-113" value="加解密架构设计" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-114" value="Subtitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=10;fontColor=#009BFF;" parent="1" vertex="1">
@@ -83,6 +86,9 @@
         </mxCell>
         <mxCell id="U88RP4GUEzCZJ0dClJZG-18" value="DES DATA" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="820" y="371.5" width="180" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="U88RP4GUEzCZJ0dClJZG-19" value="REMOTE SERVER&lt;br&gt;MYSQL" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#F04D22;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="185" y="120" width="320" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
