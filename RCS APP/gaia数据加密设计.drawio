@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T01:07:21.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ysowk2Rt93Ukq1oriUFp" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T09:04:54.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vDlGccvFrcf_gTtuG6nO" version="14.0.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="2076" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-4" value="REMOTE SERVER" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=10;fillColor=#76608a;fontSize=24;align=center;strokeColor=#432D57;arcSize=3;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="160" y="910" width="1360" height="664" as="geometry" />
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-4" value="REMOTE SERVER" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=10;fillColor=#76608a;fontSize=24;align=center;strokeColor=#432D57;arcSize=3;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="180" y="910" width="1360" height="664" as="geometry" />
+        </mxCell>
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-13" value="GAIA SERVER" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#F04D22;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=6;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="200" y="930" width="860" height="339" as="geometry" />
+        </mxCell>
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-39" value="USB KEY 授权管理模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=24;align=center;arcSize=6;verticalAlign=top;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="680" y="990" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-113" value="加解密架构设计" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
@@ -13,25 +19,22 @@
         <mxCell id="23046e2b9bb16c14-114" value="Subtitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=10;fontColor=#009BFF;" parent="1" vertex="1">
           <mxGeometry x="114" y="90" width="1526" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.112;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;jumpSize=20;strokeWidth=10;" edge="1" parent="1" source="U88RP4GUEzCZJ0dClJZG-19" target="BfiNtB7ieqx_UeECHfpl-13">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;jumpSize=20;strokeWidth=10;" parent="1" source="U88RP4GUEzCZJ0dClJZG-19" target="BfiNtB7ieqx_UeECHfpl-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U88RP4GUEzCZJ0dClJZG-19" value="MYSQL" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=6;verticalAlign=top;fillColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1320" width="320" height="110" as="geometry" />
+          <mxGeometry x="260" y="1430" width="320" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-1" value="WeChat" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_9-wechat-128.png;fontSize=20;align=center;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-1" value="WeChat" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_9-wechat-128.png;fontSize=20;align=center;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="230" y="430" width="149" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-13" value="GAIA SERVER" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#F04D22;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="200" y="961" width="1260" height="199" as="geometry" />
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-14" value="HTTPS" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=5;fontSize=20;labelBackgroundColor=#ffffff;labelBorderColor=#000000;strokeColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BfiNtB7ieqx_UeECHfpl-1" target="BfiNtB7ieqx_UeECHfpl-13">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-14" value="HTTPS" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=5;fontSize=20;labelBackgroundColor=#ffffff;labelBorderColor=#000000;strokeColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BfiNtB7ieqx_UeECHfpl-1" target="BfiNtB7ieqx_UeECHfpl-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="590" as="sourcePoint" />
             <mxPoint x="840" y="919" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-16" value="LOCAL" style="group;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;fontSize=20;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;strokeWidth=10;" vertex="1" connectable="0" parent="1">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-16" value="LOCAL" style="group;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;fontSize=20;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;strokeWidth=10;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="770" y="360" width="870" height="370" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-64" value="USB KEY" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#0072BC;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" parent="BfiNtB7ieqx_UeECHfpl-16" vertex="1">
@@ -72,7 +75,7 @@
         <mxCell id="23046e2b9bb16c14-82" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=11;fontColor=#FFFFFF;fontStyle=1" parent="BfiNtB7ieqx_UeECHfpl-16" vertex="1">
           <mxGeometry x="658.5328467153286" y="268.4151785714286" width="12.7007299270073" height="16.517857142857142" as="geometry" />
         </mxCell>
-        <mxCell id="U88RP4GUEzCZJ0dClJZG-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computers-and-hardware-1/32/Computers_and_Hardware_usb_key_storage_data-128.png" parent="BfiNtB7ieqx_UeECHfpl-16" vertex="1">
+        <mxCell id="U88RP4GUEzCZJ0dClJZG-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;私钥2&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computers-and-hardware-1/32/Computers_and_Hardware_usb_key_storage_data-128.png" parent="BfiNtB7ieqx_UeECHfpl-16" vertex="1">
           <mxGeometry x="735.536496350365" y="123.88375000000002" width="54.275853568347095" height="54.275853568347095" as="geometry" />
         </mxCell>
         <mxCell id="U88RP4GUEzCZJ0dClJZG-5" value="&amp;nbsp;read KEY Data" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=3;fontSize=20;strokeColor=#FFFFFF;rounded=0;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0;" parent="BfiNtB7ieqx_UeECHfpl-16" target="U88RP4GUEzCZJ0dClJZG-7" edge="1">
@@ -105,76 +108,46 @@
         <mxCell id="U88RP4GUEzCZJ0dClJZG-18" value="DES DATA" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="BfiNtB7ieqx_UeECHfpl-16" vertex="1">
           <mxGeometry x="419.12408759124094" y="67.31026785714288" width="114.30656934306569" height="190.78125000000006" as="geometry" />
         </mxCell>
+        <mxCell id="fSLtvEbu9_f6mJ98Epxo-39" value="自定义私钥1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computers-and-hardware-1/32/Computers_and_Hardware_usb_key_storage_data-128.png;fontSize=20;" vertex="1" parent="BfiNtB7ieqx_UeECHfpl-16">
+          <mxGeometry x="359.596496350365" y="214.14375000000007" width="54.275853568347095" height="54.275853568347095" as="geometry" />
+        </mxCell>
+        <mxCell id="fSLtvEbu9_f6mJ98Epxo-40" value="自定义私钥1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computers-and-hardware-1/32/Computers_and_Hardware_usb_key_storage_data-128.png;fontSize=20;" vertex="1" parent="BfiNtB7ieqx_UeECHfpl-16">
+          <mxGeometry x="90.34649635036499" y="214.14375000000007" width="54.275853568347095" height="54.275853568347095" as="geometry" />
+        </mxCell>
         <mxCell id="U88RP4GUEzCZJ0dClJZG-20" value="HTTPS" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=5;fontSize=20;labelBackgroundColor=#ffffff;labelBorderColor=#000000;strokeColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23046e2b9bb16c14-28" target="BfiNtB7ieqx_UeECHfpl-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-20" value="WAMP" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.enterprise.gateway;fillColor=#FFFFFF;rounded=0;fontSize=20;fontColor=#FFFFFF;align=right;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="815" y="1110" width="50" height="50" as="geometry" />
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-21" value="USB KEY" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#0072BC;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1150.001094890511" y="999.9957142857143" width="95.25547445255475" height="280.8035714285715" as="geometry" />
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-21" value="USB KEY" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#0072BC;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1351.691094890511" y="1198.0157142857142" width="95.25547445255475" height="280.8035714285715" as="geometry" />
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-23" value="获取USB KEY 信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="850.0013868613137" y="1035.1114285714284" width="114.30656934306569" height="190.78125000000006" as="geometry" />
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-22" value="AUTH Service" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#8BC63E;fontSize=24;fontColor=#000000;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="980.0003649635036" y="1198.0157142857142" width="336.56934306569343" height="280.8035714285715" as="geometry" />
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-23" value="HASP LIB" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1182.7713868613137" y="1243.0314285714285" width="114.30656934306569" height="190.78125000000006" as="geometry" />
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-24" value="WAMP" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.enterprise.gateway;fillColor=#FFFFFF;rounded=0;fontSize=20;fontColor=#FFFFFF;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="1007.5013138686132" y="1332.2278571428571" width="31.75182481751825" height="41.29464285714287" as="geometry" />
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-26" value="read KEY Data" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=3;fontSize=20;strokeColor=#FFFFFF;rounded=0;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-26" value="read KEY Data" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=3;fontSize=20;strokeColor=#FFFFFF;rounded=0;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" source="BfiNtB7ieqx_UeECHfpl-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1347.8808759124086" y="1368.567142857143" as="sourcePoint" />
-            <mxPoint x="1121.8341084406752" y="1361.8241455072107" as="targetPoint" />
+            <mxPoint x="998.6308759124086" y="1169.567142857143" as="sourcePoint" />
+            <mxPoint x="772.5841084406752" y="1162.8241455072107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computers-and-hardware-1/32/Computers_and_Hardware_usb_key_storage_data-128.png" vertex="1" parent="1">
-          <mxGeometry x="1358.6764963503651" y="1311.28375" width="54.275853568347095" height="54.275853568347095" as="geometry" />
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;私钥3&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computers-and-hardware-1/32/Computers_and_Hardware_usb_key_storage_data-128.png" parent="1" vertex="1">
+          <mxGeometry x="1160.486496350365" y="1143.52375" width="54.275853568347095" height="54.275853568347095" as="geometry" />
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-29" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#FFFFFF;strokeColor=#FFFFFF;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BfiNtB7ieqx_UeECHfpl-24">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-32" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="753.0699999999999" y="1143.52" width="24.18" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-31" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock_unlocked;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="755.05" y="1090" width="22.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-35" value="&amp;nbsp;read KEY Data" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=3;fontSize=20;strokeColor=#FFFFFF;rounded=0;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0;" parent="1" target="BfiNtB7ieqx_UeECHfpl-31" edge="1" source="BfiNtB7ieqx_UeECHfpl-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311.16554744525547" y="990.3975" as="sourcePoint" />
-            <mxPoint x="1106.5670072992702" y="1311.4446812214962" as="targetPoint" />
+            <mxPoint x="999.265912408759" y="1111.9108928571432" as="sourcePoint" />
+            <mxPoint x="773.0061212213704" y="1111.4446812214962" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-30" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#FFFFFF;strokeColor=#FFFFFF;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BfiNtB7ieqx_UeECHfpl-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311.16554744525547" y="998.6564285714286" as="sourcePoint" />
-            <mxPoint x="1105.2969343065693" y="1361.8241455072107" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-19" value="WSS" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;jumpSize=20;strokeWidth=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;" edge="1" parent="1" source="BfiNtB7ieqx_UeECHfpl-24" target="BfiNtB7ieqx_UeECHfpl-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="1230" as="sourcePoint" />
-            <mxPoint x="900.9699999999999" y="1071" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-32" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1102.32" y="1342.52" width="24.18" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-33" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#FFFFFF;strokeColor=#FFFFFF;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BfiNtB7ieqx_UeECHfpl-24" target="BfiNtB7ieqx_UeECHfpl-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.2531386861315" y="1352.8751785714285" as="sourcePoint" />
-            <mxPoint x="1105.2969343065693" y="1361.8241455072107" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-31" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock_unlocked;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1104.3" y="1290" width="22.2" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-35" value="&amp;nbsp;read KEY Data" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=3;fontSize=20;strokeColor=#FFFFFF;rounded=0;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0;" edge="1" parent="1" target="BfiNtB7ieqx_UeECHfpl-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1348.515912408759" y="1311.9108928571432" as="sourcePoint" />
-            <mxPoint x="1122.2561212213704" y="1311.4446812214962" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-36" value="DES DATA" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1057.254087591241" y="1243.030267857143" width="114.30656934306569" height="190.78125000000006" as="geometry" />
-        </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-39" value="USB KEY 授权管理模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fontSize=24;align=center;arcSize=6;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1057.25" y="990" width="320" height="110" as="geometry" />
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-36" value="加解密" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="700.0040875912409" y="1035.1102678571428" width="114.30656934306569" height="190.78125000000006" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
