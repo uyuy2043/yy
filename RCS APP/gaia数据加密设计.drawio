@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T02:23:57.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jgPU9wGkU5dV0BySaBxX" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:01:13.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3mCxVSDDfT_Zy9_jfXEC" version="14.0.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1730" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
             <mxPoint x="310" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-21" value="USB KEY" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#0072BC;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-21" value="离线授权" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#0072BC;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1214.761094890511" y="989.9957142857143" width="95.25547445255475" height="280.8035714285715" as="geometry" />
         </mxCell>
         <mxCell id="BfiNtB7ieqx_UeECHfpl-23" value="获取USB KEY 信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
