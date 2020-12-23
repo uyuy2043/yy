@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:01:13.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3mCxVSDDfT_Zy9_jfXEC" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:02:32.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NYb4LpSQd5IJTGAjquAK" version="14.0.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1730" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
             <mxPoint x="521.3649635036496" y="138.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U88RP4GUEzCZJ0dClJZG-18" value="加解密" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="BfiNtB7ieqx_UeECHfpl-16" vertex="1">
+        <mxCell id="U88RP4GUEzCZJ0dClJZG-18" value="获取密钥&lt;br&gt;加解密" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="BfiNtB7ieqx_UeECHfpl-16" vertex="1">
           <mxGeometry x="419.12408759124094" y="67.31026785714288" width="114.30656934306569" height="190.78125000000006" as="geometry" />
         </mxCell>
         <mxCell id="U88RP4GUEzCZJ0dClJZG-20" value="HTTPS" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=5;fontSize=20;labelBackgroundColor=#ffffff;labelBorderColor=#000000;strokeColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23046e2b9bb16c14-28" target="BfiNtB7ieqx_UeECHfpl-13" edge="1">
@@ -113,7 +113,7 @@
         <mxCell id="BfiNtB7ieqx_UeECHfpl-21" value="离线授权" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#0072BC;fontSize=24;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1214.761094890511" y="989.9957142857143" width="95.25547445255475" height="280.8035714285715" as="geometry" />
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-23" value="获取USB KEY 信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-23" value="获取离线授权信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="850.0013868613137" y="1035.1114285714284" width="114.30656934306569" height="190.78125000000006" as="geometry" />
         </mxCell>
         <mxCell id="BfiNtB7ieqx_UeECHfpl-26" value="read KEY Data" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=open;endFill=0;endSize=10;strokeWidth=3;fontSize=20;strokeColor=#FFFFFF;rounded=0;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" source="BfiNtB7ieqx_UeECHfpl-21">
@@ -137,7 +137,7 @@
             <mxPoint x="773.0061212213704" y="1111.4446812214962" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BfiNtB7ieqx_UeECHfpl-36" value="加解密" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="BfiNtB7ieqx_UeECHfpl-36" value="获取密钥&lt;br&gt;加解密" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=20;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="700.0040875912409" y="1035.1102678571428" width="114.30656934306569" height="190.78125000000006" as="geometry" />
         </mxCell>
       </root>
