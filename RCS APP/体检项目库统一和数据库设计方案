@@ -1,1 +1,237 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T03:04:26.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.2.5" etag="PKhrtL22T6yxylGGwVXP" type="github"><diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">7VzLcqM4FP0aLyelN7BM3HH3pqu6KouZWWIQNtUYUoS85utHGGHQw27sjgwdO4vEuhIS1jn36ugiMsPzzdvXMnxcfy9ins0QiN9m+MsMIUgwEX9qy3tjIUHQGFZlGstGneEh/Y9LI5DW5zTmT0rDqiiyKn1UjVGR5zyqFFtYlsWr2iwpMnXUx3DFDcNDFGat9YZ29r/TuFpLO2RBV/GNp6u1HNxHrKlYhtHPVVk853LEGcLJ9qep3oRtX/KrPq3DuHjtmfD9DM/LoqiaT5u3Oc/q2W0nrr2uem/vdobv1tUmEwUoPm6rF3suhkMuFl+u5HnVH25ffyikIYBxjDiBOFkmf8kBXsLsuR1AH1H0IHAUhbvXdVrxh8cwqmteBZXUm9nOIq9HAqK0m6htoSqLnztk6sZJmmXzIivK7SA4DrmfRLW9yCtJMEREOczSVS4KZYOd7Kl3JYt8vkxETSFuLK1qBlNgnZr2u/Ky4m89k5yqr7zY8Kp8F01kLYZyNqRbYCrZ9NpRjAIJ8LrHLoSlMZTEXu367sARHyQ+A7FCU8GKcj8mp2DloyVmzAlWSMOKYBMrjC1YkcAFVngiWCUJZ9FJfhV7wRIAN36FVaw834KVb8EK+i6w8iaC1ST9CiLoKWBRm2NRC1jYiWP5EwFrko4VBCpWBAx0LOy5wCqYDFYJOhErtmTUlWMhFSzELGARG1jMBVgEm+DEQmXLYl7kNUrRc/myRQGq8PA8vq2FfNdSWBZpPXwPo97MAsDYfG6gZwt/cfi03o1ZF36EVcXLfGtBwK6DW+VcPJcR3/OVYbtXCcsVr/Y1kvNST8ZBXEuehVX6om5UbBBtLxWzFb73GjwWaV499Xr+URs6uhCirpkUBhrcTY8d+LtbO40PcMDWwKHPLhaMbZe0o3126VPyUU5KmaYqiemjyLYBcOGhrcK9aESIrvMt2vFsiBByeTETD4mZdBIxkwJtn4Fdx8wB275P76GYqrPO4Jgxk1wREdsAFRF/zFUMU5cxU59nM1Jaoup8Dg7O9OGASAcERDSNgOh7mohErgMivbofopp098eULJidVbIsFgAAE6tfShaXvgid+KLhbJBq3uZLb9v10dymvKzD9FivhiBQBwrAAbc2g4K+OnjabTZTbtzmR8SHNpd4uWyEbth4LIc8LSXP/GMoBGEAbzyCqR80v5W+IPDPyCjvEzMKDUlYoWkkrCBBGqWIY7GBrhkrUYu1ZwBee7hjDLXRInDZkCBNCDBvREiIeSDlqAApxv+nnv8b2hb/lXD8kfksNCSf1bJ27JAqJKRKJNf7N2IeQPrsCc5hhCDTIATWCEGZa0KY8ftKCHcy3tysMTvgH72nDDRiEefi7Zo6r/1Z24bRMZUCuubO622Mfv5pVEiu+VSLDBr1GXB7kPyyIdF3nWTMh35owInOzw8J1NcSf8zANeAsoKIaTanYQ0ef2LqsqEaZlLOpS6fPAgcdKBv6LFB5y8DEqbX9pqL0tOSERzVFuSdZa0pT7SkEJW6kKUPaOOqpjl+29wLHUhYPyEOezvWzc5r8eZzGGhUhgCeSWj92GTjabxFN0vjoMKmpFtx9St2Smphr6q3BarE0VSp7VTZKdvfXS2lql8ZIcJML+1290KVRmN3Kik0ax/Uw1nPiB1brvvt81PN8LaBgZGod6yF7J+lc84WIuwvFBeoHzywH6s+Hiyl45heKi34MMxgTF2omNb5cKC4QaIsIAeYO4XzAmKmN+0sFBjPt1SDLO3fnA8ZMcCwuFRh96bedbf4gYESx+68CjYLr/nkDvv8f</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T05:41:54.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8m_z5627G5WlErNO6WiV" version="14.2.5" type="github">
+  <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
+    <mxGraphModel dx="4719.5" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-100" value="医院机构端" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=40;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="2140" width="3060" height="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-66" value="卫检委端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;align=left;shadow=0;sketch=0;glass=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="180" width="3060" height="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-70" value="机构体检套餐" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#d0cee2;fontSize=24;align=center;strokeColor=#56517e;opacity=50;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="2850" width="850" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-61" value="" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-44" target="tkRvQAQFmSHOBwZy9JBC-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.3258426966295" y="2870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-98" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=40;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-44" target="tkRvQAQFmSHOBwZy9JBC-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-99" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=40;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-44" target="tkRvQAQFmSHOBwZy9JBC-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-44" value="机构体检项目组合库" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffcc99;fontSize=24;align=center;strokeColor=#36393d;opacity=50;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-138" y="2170" width="850" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;shape=flexArrow;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-36" target="tkRvQAQFmSHOBwZy9JBC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-42" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-36" target="tkRvQAQFmSHOBwZy9JBC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-43" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-36" target="tkRvQAQFmSHOBwZy9JBC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-36" value="体检项目组合库" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;strokeColor=#6c8ebf;opacity=50;verticalAlign=top;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1520" width="850" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-13" value="" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-1" target="tkRvQAQFmSHOBwZy9JBC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-38" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.196;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-1" target="tkRvQAQFmSHOBwZy9JBC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-40" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-1" target="tkRvQAQFmSHOBwZy9JBC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-1" value="体检项目组合集合" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="0.5" y="570" width="789.5" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-15" value="" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;width=10;endSize=9.84;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-2" target="tkRvQAQFmSHOBwZy9JBC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-39" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-2" target="tkRvQAQFmSHOBwZy9JBC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-41" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-2" target="tkRvQAQFmSHOBwZy9JBC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-2" value="体检项目集合" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=24;align=center;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="901.75" y="570" width="748.25" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-4" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#FF6666;fontSize=24;align=right;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-5" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;fillColor=#FF6666;fontSize=24;align=right;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1177" y="1390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=20;shape=flexArrow;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-6" target="tkRvQAQFmSHOBwZy9JBC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;shape=flexArrow;width=5.833333333333334;endSize=7.458333333333333;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-6" target="tkRvQAQFmSHOBwZy9JBC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-6" value="录入体检项目库" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-16" target="tkRvQAQFmSHOBwZy9JBC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-16" target="tkRvQAQFmSHOBwZy9JBC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-16" target="tkRvQAQFmSHOBwZy9JBC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-16" value="生成体检项目组合库1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="502" y="1650" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-17" target="tkRvQAQFmSHOBwZy9JBC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-17" target="tkRvQAQFmSHOBwZy9JBC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-17" target="tkRvQAQFmSHOBwZy9JBC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-17" target="tkRvQAQFmSHOBwZy9JBC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tkRvQAQFmSHOBwZy9JBC-17" target="tkRvQAQFmSHOBwZy9JBC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-17" value="体检项目组合1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-18" value="体检项目组合2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1800" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-19" value="体检项目组合3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-20" value="生成体检项目组合库2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1640" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-21" value="生成体检项目组合库3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1443.5" y="1650" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-22" value="体检项目1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="122" y="1950" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-26" value="体检项目2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="257" y="1945" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-28" value="体检项目3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="392" y="1950" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-33" value="生机机构项目组合库1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="232" y="2250" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-34" value="生成机构项目组合库2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2240" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-35" value="生成机构项目组合库2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="2250" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-45" value="机构体检项目组合1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="72" y="2390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-46" value="机构体检项目组合2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2390" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-47" value="机构体检项目组合3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-48" value="机构体检项目1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="2540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-49" value="机构体检项目2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="97" y="2535" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-50" value="机构体检项目3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="232" y="2540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" source="tkRvQAQFmSHOBwZy9JBC-45" target="tkRvQAQFmSHOBwZy9JBC-50" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" source="tkRvQAQFmSHOBwZy9JBC-45" target="tkRvQAQFmSHOBwZy9JBC-48" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" source="tkRvQAQFmSHOBwZy9JBC-45" target="tkRvQAQFmSHOBwZy9JBC-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" target="tkRvQAQFmSHOBwZy9JBC-45" parent="1" source="tkRvQAQFmSHOBwZy9JBC-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.5" y="2330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" target="tkRvQAQFmSHOBwZy9JBC-46" parent="1" source="tkRvQAQFmSHOBwZy9JBC-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="2330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" target="tkRvQAQFmSHOBwZy9JBC-47" parent="1" source="tkRvQAQFmSHOBwZy9JBC-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="574.5" y="2330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-62" value="体检套餐1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2930" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-68" value="体检套餐2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2880" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-69" value="体检套餐3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="990" y="2880" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-72" value="机构体检套餐项目组合1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="3090" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-73" value="机构体检套餐项目组合2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="172" y="3080" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-74" value="机构体检项套餐目组合3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3080" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-75" value="机构体检套餐项目1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="3250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-76" value="机构体套餐检项目2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="3250" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-77" value="机构体检套餐项目3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="3250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" source="tkRvQAQFmSHOBwZy9JBC-72" target="tkRvQAQFmSHOBwZy9JBC-77" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-79" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" source="tkRvQAQFmSHOBwZy9JBC-72" target="tkRvQAQFmSHOBwZy9JBC-75" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" source="tkRvQAQFmSHOBwZy9JBC-72" target="tkRvQAQFmSHOBwZy9JBC-76" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" target="tkRvQAQFmSHOBwZy9JBC-72" parent="1" source="tkRvQAQFmSHOBwZy9JBC-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.5" y="2980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" target="tkRvQAQFmSHOBwZy9JBC-73" parent="1" source="tkRvQAQFmSHOBwZy9JBC-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="477" y="2980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkRvQAQFmSHOBwZy9JBC-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.71;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;exitPerimeter=0;" edge="1" target="tkRvQAQFmSHOBwZy9JBC-74" parent="1" source="tkRvQAQFmSHOBwZy9JBC-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554.5" y="2980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
