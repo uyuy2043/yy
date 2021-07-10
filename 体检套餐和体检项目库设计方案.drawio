@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T09:58:59.913Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="ebinVjigfNwQfu338aju" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T10:05:05.487Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="NO-gpclh3HFAZ4zQBqll" version="14.8.5" type="github">
   <diagram id="I1acQup80pIm7hhBkFKN" name="Page-1">
-    <mxGraphModel dx="-42" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="115" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JNjtPGQv4dUMdPtZdE4I-110" value="保健中心系统" style="swimlane;whiteSpace=wrap;align=center;swimlaneFillColor=#ffffff;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="130" width="620" height="4270" as="geometry" />
+          <mxGeometry x="1390" y="130" width="620" height="4730" as="geometry" />
         </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
           <mxGeometry x="-6" y="1590" width="180" height="180" as="geometry" />
@@ -356,13 +356,25 @@
             <mxPoint x="70" y="4113" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TA7IZTzMVxlUGsbhdg7N-175" value="生成体检报告" style="whiteSpace=wrap;html=1;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shadow=1;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-180" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-175" target="TA7IZTzMVxlUGsbhdg7N-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-175" value="根据体检单项对体检报告进行完整性校验" style="whiteSpace=wrap;html=1;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shadow=1;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
           <mxGeometry x="290" y="4190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-174" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-169" target="TA7IZTzMVxlUGsbhdg7N-175">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="4210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-177" value="生成体检报告" style="whiteSpace=wrap;html=1;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shadow=1;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
+          <mxGeometry x="290" y="4370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-179" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-178" target="TA7IZTzMVxlUGsbhdg7N-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-178" value="体检单项" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
+          <mxGeometry x="20" y="4180" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JNjtPGQv4dUMdPtZdE4I-124" value="体检机构运维人员" style="swimlane;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;align=center;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="950" y="130" width="320" height="4270" as="geometry" />
