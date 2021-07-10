@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T09:48:06.853Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="USeaoZdBAJsiAgcyoZoR" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T09:57:41.331Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="2D6lynvA4I_DHK_oqgJ3" version="14.8.5" type="github">
   <diagram id="I1acQup80pIm7hhBkFKN" name="Page-1">
     <mxGraphModel dx="1057" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,6 +279,9 @@
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-140" target="TA7IZTzMVxlUGsbhdg7N-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-167" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-140" target="TA7IZTzMVxlUGsbhdg7N-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-140" value="体检机构组合" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
           <mxGeometry x="92.5" y="3140" width="60" height="80" as="geometry" />
         </mxCell>
@@ -293,8 +296,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-168" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.714;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-141" target="TA7IZTzMVxlUGsbhdg7N-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-141" value="体检机构单项" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
-          <mxGeometry x="104" y="3770" width="60" height="80" as="geometry" />
+          <mxGeometry x="92.5" y="3770" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-147" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;startArrow=none;startFill=0;align=center;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-145" target="TA7IZTzMVxlUGsbhdg7N-140">
           <mxGeometry relative="1" as="geometry" />
@@ -306,6 +312,9 @@
         </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-145" value="判断是否需要更新体检机构组合" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
           <mxGeometry x="310" y="3297" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-154" target="TA7IZTzMVxlUGsbhdg7N-156">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-154" value="获取到体检报告-体检结果明细" style="whiteSpace=wrap;html=1;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shadow=1;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
           <mxGeometry x="290" y="3640" width="120" height="60" as="geometry" />
@@ -324,8 +333,36 @@
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-156" value="判断组合是否已经存在于体检机构组合" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
           <mxGeometry x="310" y="3770" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-170" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-157" target="TA7IZTzMVxlUGsbhdg7N-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TA7IZTzMVxlUGsbhdg7N-157" value="判断是否需要更新体检机构组合" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
           <mxGeometry x="310" y="3940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-173" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-166" target="TA7IZTzMVxlUGsbhdg7N-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-166" value="体检机构组合单项" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fad9d5;strokeColor=#ae4132;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
+          <mxGeometry x="20" y="3490" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-169" value="生成体检报告单项结果" style="whiteSpace=wrap;html=1;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shadow=1;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
+          <mxGeometry x="290" y="4071" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-172" value="体检报告单项结果" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
+          <mxGeometry x="20" y="4060" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-171" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-169" target="TA7IZTzMVxlUGsbhdg7N-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="4113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-175" value="生成体检报告" style="whiteSpace=wrap;html=1;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;shadow=1;" vertex="1" parent="JNjtPGQv4dUMdPtZdE4I-110">
+          <mxGeometry x="290" y="4190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TA7IZTzMVxlUGsbhdg7N-174" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=center;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JNjtPGQv4dUMdPtZdE4I-110" source="TA7IZTzMVxlUGsbhdg7N-169" target="TA7IZTzMVxlUGsbhdg7N-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="4210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JNjtPGQv4dUMdPtZdE4I-124" value="体检机构运维人员" style="swimlane;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;align=center;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="950" y="130" width="320" height="3800" as="geometry" />
