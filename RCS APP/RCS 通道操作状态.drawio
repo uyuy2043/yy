@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T08:27:06.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="16.2.2" etag="8Jt1ASAFUZCefxtBk8vc" type="github"><diagram id="4QpyqCF9cEyYKg_zJ5Dv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-13T09:14:15.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="HfLWoW0PEdT4vMLK4BNG" version="16.2.2" type="github">
+  <diagram id="4QpyqCF9cEyYKg_zJ5Dv" name="第 1 页">
+    <mxGraphModel dx="3412" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-1" value="&lt;h1 style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;&lt;i&gt;legend:&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;xxxx Function call by APP&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;&lt;b style=&quot;color: rgb(255 , 128 , 0)&quot;&gt;xxxx Event triggered&amp;nbsp;by UFO&lt;/b&gt;&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 28px&quot;&gt;xxxx Event triggered&amp;nbsp;by Internal&lt;/font&gt;&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#336600&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;xxxx Msg Rcv From External&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#336600&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#336600&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#336600&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b&gt;S1 Step 1 、S2 Step 2&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="20" width="661" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 28px&quot;&gt;Ofen used channel status&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="420" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;strokeWidth=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-7" value="&lt;h1&gt;通道操作状态迁移图&lt;/h1&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="300" y="50" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 28px&quot;&gt;Ofen used channel status&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="420" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;strokeWidth=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-10" value="" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;strokeColor=#09555B;endSize=24;fontColor=#1A1A1A;" edge="1" parent="1" source="DWOAK-jr-ZWvI4Mr9R3B-13" target="DWOAK-jr-ZWvI4Mr9R3B-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-13" value="&lt;span style=&quot;font-size: 28px&quot;&gt;None&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="248" y="800" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-25" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Calling&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="800" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-26" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 19px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 19px&quot;&gt;&lt;h1 class=&quot;topictitle1&quot;&gt;&lt;font color=&quot;#ff00ff&quot;&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;Call&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot; color=&quot;#ff8000&quot;&gt;OnCallResult&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#1A1A1A;labelBackgroundColor=none;fontStyle=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="820" y="860" as="geometry">
+            <mxPoint x="16" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWOAK-jr-ZWvI4Mr9R3B-31" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 19px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 19px&quot;&gt;&lt;h1 class=&quot;topictitle1&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#1A1A1A;labelBackgroundColor=none;fontStyle=1;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="1120" as="geometry">
+            <mxPoint x="16" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
