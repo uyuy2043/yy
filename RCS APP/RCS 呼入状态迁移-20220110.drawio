@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T00:33:23.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="e6qsyKwTAb9D2-U6FgRr" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T00:43:57.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="aRMdJR97mXg_wPDvGbEV" version="16.2.6" type="github">
   <diagram id="Qj7MgNATCYRBkC7Vh015" name="第 1 页">
-    <mxGraphModel dx="3671" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,6 +224,15 @@
           <mxGeometry x="630" y="1970.0015384615385" as="geometry">
             <mxPoint x="204" y="153" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eqTP65sJsPrfEIfIMdeC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="eqTP65sJsPrfEIfIMdeC-1" target="Wg9T3s5gL22rxu_gKdYz-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqTP65sJsPrfEIfIMdeC-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="357" y="130" width="46" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eqTP65sJsPrfEIfIMdeC-3" value="&lt;font color=&quot;#ff00ff&quot;&gt;Call/PollingCall&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=22;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="378.00000000000045" y="228.6363636363635" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
