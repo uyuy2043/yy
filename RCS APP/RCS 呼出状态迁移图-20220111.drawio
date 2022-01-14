@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T00:39:14.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VCMr4Aamydt-A-EqpgvG" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T00:41:07.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xtqQcZ8fhJraXd31qJoy" version="16.2.6" type="github">
   <diagram id="4ITWAYaiM-84-ptPlD0d" name="第 1 页">
-    <mxGraphModel dx="2500" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,6 +238,17 @@
           <mxGeometry x="750" y="2305.0015384615385" as="geometry">
             <mxPoint x="8" y="-33" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GGROJK9o83lD0vYTFvbY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="GGROJK9o83lD0vYTFvbY-1" target="lx9h9Hkjl-4GygsY3ic9-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGROJK9o83lD0vYTFvbY-3" value="SIP电话发起外呼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=22;" vertex="1" connectable="0" parent="GGROJK9o83lD0vYTFvbY-2">
+          <mxGeometry x="-0.1792" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGROJK9o83lD0vYTFvbY-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="357" y="130" width="46" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
