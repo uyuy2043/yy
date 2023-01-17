@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T08:54:23.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="Mi89iwo4AZJz6xXq_sXE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T08:54:36.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="mErp24u1OpfC0pYQSnIA" type="github">
   <diagram id="V2s7IbACo_M6SPmoZO-r" name="第 1 页">
     <mxGraphModel dx="2577" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,8 +27,10 @@
         <mxCell id="c07-1IZTz7r5Zh2ouG3o-3" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;干保系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#e1d5e7;fontSize=12;align=center;strokeColor=#9673a6;arcSize=3;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="117" y="800" width="580" height="105.23" as="geometry" />
         </mxCell>
-        <mxCell id="c07-1IZTz7r5Zh2ouG3o-6" value="获取公务员和市民体检信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;endArrow=none;endFill=0;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="c07-1IZTz7r5Zh2ouG3o-4" target="c07-1IZTz7r5Zh2ouG3o-3">
-          <mxGeometry x="-0.0004" relative="1" as="geometry">
+        <mxCell id="c07-1IZTz7r5Zh2ouG3o-6" value="获取公务员和市民体检信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;endArrow=none;endFill=0;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1">
+          <mxGeometry x="0.0526" y="27" relative="1" as="geometry">
+            <mxPoint x="1020" y="845.6149999999998" as="sourcePoint" />
+            <mxPoint x="697" y="845.6149999999998" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
