@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:39:45.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PTfSv2Z8p3m3o7eBtjLm" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:40:48.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7PuineaK65Uc0U_tLnsm" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2387" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3526" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-40" value="data_bus&lt;br&gt;32ms" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Service_Bus.svg;" vertex="1" parent="1">
           <mxGeometry x="383" y="361" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-56" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;方向：声卡-&amp;gt;RTP==&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;循环从声卡缓冲区取2毫秒数据放入20k内存管道（应用层）-&amp;gt;内核定时器定时4毫秒从20k内存管道取一次8毫秒数据进行处理（agc 有声等检测）-&amp;gt;数据放入Bbec（32毫秒的缓存管道）-&amp;gt;内核定时器定时4毫秒把数据从Bbec取出放入到data_bus（32毫秒的缓冲区）-&amp;gt;在内核线程中（my_tasklet_on_cpu） 4毫秒线程，把data_bus与其他通道混音（40毫秒混音缓冲区），同时混音数据放入到与它绑定的RTP通道的rtp_tx（800毫秒缓存管道）-&amp;gt;内核线程（mg_thread）4毫秒一次，从rtp_tx管道区取一包数据并进行编解码（一包大小默认20毫秒数据），同时把编解码好的数据通过内核socket发送出去。&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="50" width="430" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
