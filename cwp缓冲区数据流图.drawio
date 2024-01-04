@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T09:03:11.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sb1lQz1gXDfdKCgFgm5b" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T09:04:54.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9iw4kQcR4LCLfkOXqKol" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="4774" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2545" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-32" value="rtp_tx&lt;br&gt;800ms" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="361" width="60" height="80" as="geometry" />
+          <mxGeometry x="640" y="352" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-34" value="把data_bus与其他通道混音，&lt;br&gt;同时把混音数据放入rtp_tx" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-40" target="3F7YWCVPEz-Y0Zp0MN9f-32">
           <mxGeometry relative="1" as="geometry">
@@ -141,7 +141,7 @@
           <mxGeometry x="-890" y="780" width="430" height="410" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-77" value="rtp_rx_data&lt;br&gt;150ms" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1005" width="60" height="80" as="geometry" />
+          <mxGeometry x="73" y="1005" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
