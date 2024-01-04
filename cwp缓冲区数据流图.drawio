@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:58:49.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-uG5yRHKwy2pHUitndIR" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T09:03:11.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sb1lQz1gXDfdKCgFgm5b" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="3094" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4774" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-9" value="内核定时器&lt;br&gt;（4毫秒一次）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="80" width="190" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-16" value="20k内存管道取一次8毫秒数据&lt;br&gt;进行处理&lt;br&gt;并放入Bbec" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-13" target="3F7YWCVPEz-Y0Zp0MN9f-15">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-16" value="20k内存管道取一次8毫秒数据&lt;br&gt;进行处理&lt;br&gt;并放入Bbec" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-13" target="3F7YWCVPEz-Y0Zp0MN9f-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -27,7 +27,7 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-13" value="20k" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="60" y="170" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-31" value="取出数据放入data_bus" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-35" target="3F7YWCVPEz-Y0Zp0MN9f-40">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-31" value="取出数据放入data_bus" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-35" target="3F7YWCVPEz-Y0Zp0MN9f-40">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <mxPoint x="330" y="410.42857142857133" as="targetPoint" />
             <mxPoint as="offset" />
@@ -36,13 +36,13 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-15" value="Bbec&lt;br&gt;32ms" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-19" value="声卡缓冲区取2毫秒数据&lt;br&gt;放入20k内存管道" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-7" target="3F7YWCVPEz-Y0Zp0MN9f-13">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-19" value="声卡缓冲区取2毫秒数据&lt;br&gt;放入20k内存管道" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-7" target="3F7YWCVPEz-Y0Zp0MN9f-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-27" value="my_tasklet_on_cpu（4毫秒执行一次）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="450" y="80" width="130" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-39" value="从rtp_tx管道区取一包数据并进行编解码&lt;br&gt;（一包大小默认20毫秒数据），&lt;br&gt;同时把编解码好的数据通过内核socket发送出去" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-32" target="3F7YWCVPEz-Y0Zp0MN9f-38">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-39" value="从rtp_tx管道区取一包数据并进行编解码&lt;br&gt;（一包大小默认20毫秒数据），&lt;br&gt;同时把编解码好的数据通过内核socket发送出去" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-32" target="3F7YWCVPEz-Y0Zp0MN9f-38">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-32" value="rtp_tx&lt;br&gt;800ms" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="361" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-34" value="把data_bus与其他通道混音，&lt;br&gt;同时把混音数据放入rtp_tx" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-40" target="3F7YWCVPEz-Y0Zp0MN9f-32">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-34" value="把data_bus与其他通道混音，&lt;br&gt;同时把混音数据放入rtp_tx" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-40" target="3F7YWCVPEz-Y0Zp0MN9f-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="410.42857142857133" as="sourcePoint" />
           </mxGeometry>
@@ -67,14 +67,14 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-40" value="data_bus&lt;br&gt;32ms" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Service_Bus.svg;" vertex="1" parent="1">
           <mxGeometry x="383" y="361" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-56" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;方向：声卡-&amp;gt;RTP==&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;循环从声卡缓冲区取2毫秒数据放入20k内存管道（应用层）-&amp;gt;内核定时器定时4毫秒从20k内存管道取一次8毫秒数据进行处理（agc 有声等检测）-&amp;gt;数据放入Bbec（32毫秒的缓存管道）-&amp;gt;内核定时器定时4毫秒把数据从Bbec取出放入到data_bus（32毫秒的缓冲区）-&amp;gt;在内核线程中（my_tasklet_on_cpu） 4毫秒线程，把data_bus与其他通道混音（40毫秒混音缓冲区），同时混音数据放入到与它绑定的RTP通道的rtp_tx（800毫秒缓存管道）-&amp;gt;内核线程（mg_thread）4毫秒一次，从rtp_tx管道区取一包数据并进行编解码（一包大小默认20毫秒数据），同时把编解码好的数据通过内核socket发送出去。&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-56" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;方向：声卡-&amp;gt;RTP==&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;循环从声卡缓冲区取2毫秒数据放入20k内存管道（应用层）-&amp;gt;内核定时器定时4毫秒从20k内存管道取一次8毫秒数据进行处理（agc 有声等检测）-&amp;gt;数据放入Bbec（32毫秒的缓存管道）-&amp;gt;内核定时器定时4毫秒把数据从Bbec取出放入到data_bus（32毫秒的缓冲区）-&amp;gt;在内核线程中（my_tasklet_on_cpu） 4毫秒线程，把data_bus与其他通道混音（40毫秒混音缓冲区），同时混音数据放入到与它绑定的RTP通道的rtp_tx（800毫秒缓存管道）-&amp;gt;内核线程（mg_thread）4毫秒一次，从rtp_tx管道区取一包数据并进行编解码（一包大小默认20毫秒数据），同时把编解码好的数据通过内核socket发送出去。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-900" y="50" width="430" height="400" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-58" value="user" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;verticalAlign=top;fontStyle=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="-380" y="740" width="380" height="542" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-59" value="kernel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;verticalAlign=top;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="30" y="731" width="930" height="689" as="geometry" />
+          <mxGeometry x="30" y="731.5" width="930" height="609" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-60" value="应用层线程&lt;br&gt;（循环执行）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-170" y="771" width="111" height="530" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-62" value="内核定时器&lt;br&gt;（4毫秒一次）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="160" y="771" width="190" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-63" value="从Btx1取出放入buf_tx_dma&lt;br&gt;（8毫秒数据临时缓存），&lt;br&gt;同时把临时缓存的数据以&lt;br&gt;每2毫秒大小放入到20k内存管道中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-64" target="3F7YWCVPEz-Y0Zp0MN9f-66">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-63" value="从Btx1取出放入buf_tx_dma&lt;br&gt;（8毫秒数据临时缓存），&lt;br&gt;同时把临时缓存的数据以&lt;br&gt;每2毫秒大小放入到20k内存管道中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-64" target="3F7YWCVPEz-Y0Zp0MN9f-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -93,7 +93,7 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-64" value="20k" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="70" y="1162" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-65" value="从rtp_rx_data管道中&lt;br&gt;取数据进行能量和有声检测，&lt;br&gt;然后把数据放入data_bus" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-77" target="3F7YWCVPEz-Y0Zp0MN9f-75">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-65" value="从rtp_rx_data管道中&lt;br&gt;取数据进行能量和有声检测，&lt;br&gt;然后把数据放入data_bus" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-77" target="3F7YWCVPEz-Y0Zp0MN9f-75">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <mxPoint x="340" y="1064.4285714285713" as="targetPoint" />
             <mxPoint as="offset" />
@@ -102,7 +102,7 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-66" value="Btx1&lt;br&gt;32ms" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="330" y="1162" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-67" value="20k内存管道取2毫秒数据，&lt;br&gt;并把数据写入到声卡中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-61" target="3F7YWCVPEz-Y0Zp0MN9f-64">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-67" value="20k内存管道取2毫秒数据，&lt;br&gt;并把数据写入到声卡中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-61" target="3F7YWCVPEz-Y0Zp0MN9f-64">
           <mxGeometry x="0.0049" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -110,7 +110,7 @@
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-68" value="my_tasklet_on_cpu（4毫秒执行一次）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="460" y="771" width="130" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-69" value="从网络中取数据取一包数据存&lt;br&gt;放到临时缓冲区（1024字节）并进行编解码，&lt;br&gt;同时把编解码好的数据放入到rtp_rx_data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-70" target="3F7YWCVPEz-Y0Zp0MN9f-74">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-69" value="从网络中取数据取一包数据存&lt;br&gt;放到临时缓冲区（1024字节）并进行编解码，&lt;br&gt;同时把编解码好的数据放入到rtp_rx_data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;labelBackgroundColor=none;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-70" target="3F7YWCVPEz-Y0Zp0MN9f-74">
           <mxGeometry x="0.0024" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -125,19 +125,19 @@
           <mxGeometry x="760" y="771" width="130" height="490" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-74" value="网络" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="990" y="886.25" width="50" height="31.5" as="geometry" />
+          <mxGeometry x="990" y="896.25" width="50" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-78" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;把data_bus与其他通道混音&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（40毫秒混音缓冲区），&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;同时混音数据放入到与&lt;br&gt;它绑定的DSP通道的Btx1&lt;/span&gt;&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3F7YWCVPEz-Y0Zp0MN9f-75">
-          <mxGeometry x="-0.1839" y="-11" relative="1" as="geometry">
-            <mxPoint x="503" y="1045" as="sourcePoint" />
-            <mxPoint x="650" y="1045" as="targetPoint" />
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-78" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;把data_bus与其他通道混音&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（40毫秒混音缓冲区），&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;同时混音数据放入到与&lt;br&gt;它绑定的DSP通道的Btx1&lt;/span&gt;&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry x="0.0517" relative="1" as="geometry">
+            <mxPoint x="418" y="1043.9565217391305" as="sourcePoint" />
+            <mxPoint x="650" y="1044" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-75" value="data_bus&lt;br&gt;32ms" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Service_Bus.svg;" vertex="1" parent="1">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-75" value="data_bus&lt;br&gt;32ms" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Service_Bus.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="1015" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-76" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;div&gt;RTP-&amp;gt;声卡==&amp;gt;&lt;/div&gt;&lt;div&gt;内核线程（mg_thread）4毫秒一次，每次从网络中取数据取一包数据存放到临时缓冲区（1024字节）并进行编解码，同时把编解码好的数据放入到rtp_rx_data（150毫秒缓存管道）-&amp;gt;内核定时器定时4毫秒从rtp_rx_data管道中取数据进行能量和有声检测，然后把数据放入data_bus（32毫秒的缓冲区）-&amp;gt;在内核线程中（my_tasklet_on_cpu） 4毫秒线程，把data_bus与其他通道混音（40毫秒混音缓冲区），同时混音数据放入到与它绑定的DSP通道的Btx1（32毫秒缓存管道）-&amp;gt;内核定时器（timer_irq）每4毫秒从Btx1取出放入buf_tx_dma（8毫秒数据临时缓存），同时把临时缓存的数据以每2毫秒大小放入到20k内存管道中-&amp;gt;循环从20k内存管道取2毫秒数据，并把数据写入到声卡中（应用层）。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-76" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;div&gt;RTP-&amp;gt;声卡==&amp;gt;&lt;/div&gt;&lt;div&gt;内核线程（mg_thread）4毫秒一次，每次从网络中取数据取一包数据存放到临时缓冲区（1024字节）并进行编解码，同时把编解码好的数据放入到rtp_rx_data（150毫秒缓存管道）-&amp;gt;内核定时器定时4毫秒从rtp_rx_data管道中取数据进行能量和有声检测，然后把数据放入data_bus（32毫秒的缓冲区）-&amp;gt;在内核线程中（my_tasklet_on_cpu） 4毫秒线程，把data_bus与其他通道混音（40毫秒混音缓冲区），同时混音数据放入到与它绑定的DSP通道的Btx1（32毫秒缓存管道）-&amp;gt;内核定时器（timer_irq）每4毫秒从Btx1取出放入buf_tx_dma（8毫秒数据临时缓存），同时把临时缓存的数据以每2毫秒大小放入到20k内存管道中-&amp;gt;循环从20k内存管道取2毫秒数据，并把数据写入到声卡中（应用层）。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-890" y="780" width="430" height="410" as="geometry" />
         </mxCell>
         <mxCell id="3F7YWCVPEz-Y0Zp0MN9f-77" value="rtp_rx_data&lt;br&gt;150ms" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
