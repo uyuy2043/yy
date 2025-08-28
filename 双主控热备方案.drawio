@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="JsG_deU7dv6ZPL6rb_Fu">
-    <mxGraphModel>
+    <mxGraphModel dx="735" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0CipUV3xGFJQIInli8gr-1" value="主" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0CipUV3xGFJQIInli8gr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0CipUV3xGFJQIInli8gr-3" value="从" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0CipUV3xGFJQIInli8gr-4" value="SMGSvr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CipUV3xGFJQIInli8gr-5" value="SMGSvr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
